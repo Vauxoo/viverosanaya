@@ -1,0 +1,4 @@
+[submodule "viverosanaya"]
+	path = viverosanaya
+	url = git@git.vauxoo.com:vauxoo/viverosanaya.git
+	branch = 19.0-t106445-init-project-hadan
